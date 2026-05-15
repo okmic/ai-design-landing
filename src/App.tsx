@@ -22,12 +22,13 @@ function App() {
               style={{ fontFamily: "'Playfair Display', 'Georgia', serif", fontWeight: 400 }}>
               Глаз радуется
               <br />
+              <div className="h-[3px]" />
               <span className="italic font-medium text-[#8B6914]">от AI Дизайна</span>
             </h1>
             
             <p className="text-[#4A433A] text-base sm:text-lg lg:text-xl leading-[1.7] mt-8 sm:mt-10 max-w-[480px]"
               style={{ fontFamily: "'Inter', sans-serif", fontWeight: 350 }}>
-              GPT-промирование + Tailwind CSS — дизайн, который работает. 
+              GPT-промт + Tailwind CSS — дизайн, который работает. 
               7 из 10 людей отзываются положительно.
             </p>
             
